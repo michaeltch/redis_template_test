@@ -10,4 +10,4 @@ Run the resulting jar with:
 
 `java -jar target/redtemp-1.0-SNAPSHOT-jar-with-dependencies.jar`
 
-The function that is run (which executes all of the saves) is `demo` in the `com.example.App` class.
+This will connect locally to the port 6379. No authentication or TLS. The function that is run (which executes all of the saves) is `demo` in the `com.example.App` class.
